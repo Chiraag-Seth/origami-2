@@ -1,0 +1,10 @@
+
+h3{
+color: red
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
